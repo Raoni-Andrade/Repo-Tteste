@@ -4,3 +4,4 @@ Git
 GitHub
 HTML
 CSS
+7 - Bash
